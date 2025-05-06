@@ -1,0 +1,118 @@
+customer_id|first_name|last_name|dob|address|city|state|pin_code|aadhaar_no|pan_no|contact_no|email|age|guardian_name|guardian_contact_no
+CUST10234|Rajesh|Sharma|15-03-1985|123 MG Road|Mumbai|Maharashtra|400001|123456789012|ABCDE1234F|9876543210|rajesh.sharma@example.com|Age: 40|||
+CUST10987|Priya|Mehta|22-11-1990|45 Nehru Street|Chennai|Tamil Nadu|600001|234567890123|FGHIJ2345K|9123456789|priya.mehta@example.com|Age: 34|||
+CUST11234|Amit|Patel|08-06-1982|67 Park Avenue|Ahmedabad|Gujarat|380015|345678901234|KLMNO3456P|9812345678|amit.patel@example.com|Age: 42|||
+CUST11567|Neha|Singh|17-09-1995|89 Green Lane|Lucknow|Uttar Pradesh|226001|456789012345|QRSTU4567Q|9784561230|neha.singh@example.com|Age: 29|||
+CUST11890|Rohit|Verma|05-01-1988|101 Central Road|Bhopal|Madhya Pradesh|462001|567890123456|VWXYZ5678R|9876512340|rohit.verma@example.com|Age: 37|||
+CUST12012|Anjali|Desai|29-07-1992|202 Lake View|Pune|Maharashtra|411001|678901234567|ABCDE6789S|9845123670|anjali.desai@example.com|Age: 32|||
+CUST12245|Karan|Reddy|11-02-1980|303 Sunrise Colony|Hyderabad|Telangana|500001|789012345678|FGHIJ7890T|9734123567|karan.reddy@example.com|Age: 45|||
+CUST12478|Meena|Nair|25-12-1986|404 Sunset Road|Kochi|Kerala|682001|890123456789|KLMNO8901U|9988776655|meena.nair@example.com|Age: 38|||
+CUST12701|Vikram|Joshi|03-04-1991|505 Garden Street|Jaipur|Rajasthan|302001|901234567890|QRSTU9012V|9867543210|vikram.joshi@example.com|Age: 33|||
+CUST12934|Sneha|Kumar|19-08-1993|606 Lotus Enclave|Delhi|Delhi|110001|012345678901|VWXYZ0123W|9876032145|sneha.kumar@example.com|Age: 31|||
+CUST13167|Arjun|Thakur|30-10-1984|707 Galaxy Towers|Patna|Bihar|800001|123450987654|ABCDE3456X|9765432109|arjun.thakur@example.com|Age: 40|||
+CUST13489|Mehul|Pillai|17-06-1987|808 Violet Street|Indore|Madhya Pradesh|452001|234561234567|FGHIJ4567Y|9876501234|mehul.pillai@example.com|Age: 37|||
+CUST13702|Rina|Patil|25-09-1983|909 Sky High|Nagpur|Maharashtra|440001|345672345678|KLMNO5678Z|9812347890|rina.patil@example.com|Age: 41|||
+CUST13945|Tanvi|Bansal|14-12-1991|111 Rose Avenue|Kolkata|West Bengal|700001|456783456789|QRSTU6789A|9781243567|tanvi.bansal@example.com|Age: 33|||
+CUST14276|Sandeep|Yadav|09-03-1990|212 Lakeview Apartments|Surat|Gujarat|395001|567894567890|VWXYZ7890B|9776254789|sandeep.yadav@example.com|Age: 35|||
+CUST14509|Shalini|Gupta|01-01-1984|323 Orchid Road|Bangalore|Karnataka|560001|678905678901|ABCDE8901C|9735412360|shalini.gupta@example.com|Age: 41|||
+CUST14732|Ajay|Rathore|19-08-1985|434 Emerald Tower|Chandigarh|Chandigarh|160001|789016789012|FGHIJ9012D|9876223451|ajay.rathore@example.com|Age: 39|||
+CUST15005|Kavita|Singh|28-02-1982|545 Jasmine Park|Delhi|Delhi|110010|890127890123|KLMNO0123E|9812348970|kavita.singh@example.com|Age: 43|||
+CUST15267|Suresh|Kumar|12-07-1990|656 Crystal Building|Noida|Uttar Pradesh|201301|901238901234|QRSTU1234F|9745134765|suresh.kumar@example.com|Age: 34|||
+CUST15489|Aarti|Sharma|04-11-1983|767 Palm Grove|Lucknow|Uttar Pradesh|226002|012349012345|VWXYZ2345G|9786212345|aarti.sharma@example.com|Age: 41|||
+CUST15701|Nitin|Deshmukh|16-06-1994|878 Blue Hills|Pune|Maharashtra|411002|123450987654|ABCDE5678H|9845123657|nitin.deshmukh@example.com|Age: 30|||
+CUST16023|Meghna|Reddy|27-08-1986|989 Rose Garden|Chennai|Tamil Nadu|600002|234561234567|FGHIJ6789I|9823456789|meghna.reddy@example.com|Age: 38|||
+CUST16245|Pradeep|Verma|10-02-1992|1000 Silverwood|Mumbai|Maharashtra|400002|345672345678|KLMNO7890J|9876543201|pradeep.verma@example.com|Age: 33|||
+CUST16578|Divya|Joshi|22-04-1987|1111 Oceanview|Kolkata|West Bengal|700002|456783456789|QRSTU8901K|9734123456|divya.joshi@example.com|Age: 37|||
+CUST16890|Sandeep|Bansal|13-05-1995|1212 Gold Street|Ahmedabad|Gujarat|380016|567894567890|VWXYZ0123L|9812345678|sandeep.bansal@example.com|Age: 29|||
+CUST17123|Simran|Kaur|17-11-1983|1313 Sapphire Tower|Chandigarh|Chandigarh|160002|678905678901|ABCDE1234M|9786321354|simran.kaur@example.com|Age: 41|||
+CUST17345|Vikash|Rani|29-06-1992|1414 Diamond Apartments|Indore|Madhya Pradesh|452002|789016789012|FGHIJ2345N|9876123456|vikash.rani@example.com|Age: 32|||
+CUST17567|Harish|Kumar|19-07-1984|1515 Elite Street|Bhopal|Madhya Pradesh|462002|890127890123|KLMNO3456O|9734567890|harish.kumar@example.com|Age: 40|||
+CUST17890|Chandni|Mehta|14-02-1990|1616 Palm Heights|Surat|Gujarat|395002|901238901234|QRSTU4567P|9812345689|chandni.mehta@example.com|Age: 35|||
+CUST18123|Ravi|Singh|21-09-1986|1717 Royal Plaza|Jaipur|Rajasthan|302002|012349012345|VWXYZ5678Q|9785123476|ravi.singh@example.com|Age: 38|||
+CUST18345|Ashok|Patel|05-05-1993|1818 Ocean Boulevard|Noida|Uttar Pradesh|201302|123450987654|ABCDE6789R|9876312345|ashok.patel@example.com|Age: 31|||
+CUST18456|Sahil|Agarwal|20-11-2010|2211 Orchid Lane|Kolkata|West Bengal|700003|234567890123|ABCDE0123S|9734567890|sahil.agarwal@example.com|Age: 14|Amit Agarwal|9876543210
+CUST18567|Ariana|Verma|25-03-2011|2322 Sunflower Street|Lucknow|Uttar Pradesh|226003|345678901234|FGHIJ1234T|9823456789|ariana.verma@example.com|Age: 13|Neelam Verma|9765432109
+CUST18678|Riya|Joshi|12-09-2009|2433 Jasmine Court|Jaipur|Rajasthan|302003|456789012345|KLMNO2345U|9812345670|riya.joshi@example.com|Age: 15|Rajesh Joshi|9988776655
+CUST18789|Ananya|Singh|11-11-2012|2544 Lavender Towers|Surat|Gujarat|395003|567890123456|QRSTU3456V|9765412345|ananya.singh@example.com|Age: 12|Rohit Singh|9776254789
+CUST18890|Arjun|Gupta|18-02-2009|2655 Emerald Park|Chandigarh|Chandigarh|160003|678901234567|VWXYZ4567W|9823456788|arjun.gupta@example.com|Age: 15|Sunita Gupta|9845123765
+CUST18901|Sanya|Kumar|20-08-2011|2766 Goldstreet Mansion|Bhopal|Madhya Pradesh|462003|789012345678|ABCDE5678X|9876543211|sanya.kumar@example.com|Age: 13|Puneet Kumar|9988776655
+CUST19012|Vikram|Patil|14-07-2008|2877 Sky Road|Pune|Maharashtra|411003|890123456789|FGHIJ6789Y|9734123450|vikram.patil@example.com|Age: 17|Deepak Patil|9745134765
+CUST19123|Meher|Reddy|30-09-2010|2988 Bluebell Avenue|Hyderabad|Telangana|500002|901234567890|KLMNO7890Z|9812345679|meher.reddy@example.com|Age: 14|Suresh Reddy|9867543210
+CUST19234|Aryan|Bansal|05-04-2008|3099 Crystal Terrace|Delhi|Delhi|110012|012345678901|QRSTU8901A|9798765432|aryan.bansal@example.com|Age: 17|Ravi Bansal|9734123457
+CUST19345|Kritika|Nair|15-03-2013|3200 Sunshine Villas|Mumbai|Maharashtra|400003|123456789012|VWXYZ1234B|9876543209|kritika.nair@example.com|Age: 12|Ramesh Nair|9823456781
+CUST19456|Tarun|Sharma|23-10-2008|3311 Rosewood Lane|Chennai|Tamil Nadu|600004|234567890123|ABCDE2345C|9745123678|tarun.sharma@example.com|Age: 16|Sunil Sharma|9786543210
+CUST19567|Yash|Patel|17-06-2012|3422 Pine Grove|Noida|Uttar Pradesh|201303|345678901234|FGHIJ3456D|9876234098|yash.patel@example.com|Age: 13|Mahesh Patel|9812345690
+CUST19678|Zara|Rani|29-12-2009|3533 Tulip Avenue|Indore|Madhya Pradesh|452003|456789012345|KLMNO4567E|9786123456|zara.rani@example.com|Age: 15|Vikram Rani|9765432108
+CUST19789|Samir|Gupta|13-05-2007|3644 Sunset Boulevard|Kolkata|West Bengal|700004|567890123456|QRSTU5678F|9734567891|samir.gupta@example.com|Age: 17|Amit Gupta|9845123457
+CUST19890|Suhana|Verma|08-03-2011|3755 Lakeside View|Ahmedabad|Gujarat|380017|678901234567|VWXYZ6789G|9867543212|suhana.verma@example.com|Age: 14|Neeraj Verma|9923456780
+CUST19901|Nandini|Joshi|04-07-2012|3866 Horizon Flats|Bhopal|Madhya Pradesh|462004|789012345678|ABCDE7890H|9776234590|nandini.joshi@example.com|Age: 13|Harish Joshi|9812345679
+CUST20012|Ravi|Thakur|19-11-2008|3977 Orchid Avenue|Surat|Gujarat|395004|890123456789|FGHIJ8901I|9734123456|ravi.thakur@example.com|Age: 16|Ashok Thakur|9734123450
+CUST20123|Simran|Bansal|22-02-2011|4088 Meadow Hill|Chennai|Tamil Nadu|600005|901234567890|KLMNO0123J|9886543201|simran.bansal@example.com|Age: 14|Pankaj Bansal|9876432109
+CUST20234|Kartik|Patil|14-12-2010|4199 Rose Avenue|Mumbai|Maharashtra|400004|012345678901|QRSTU1234K|9734598765|kartik.patil@example.com|Age: 14|Vijay Patil|9786543201
+CUST20345|Ananya|Reddy|25-05-2008|4300 Crystal Park|Pune|Maharashtra|411004|123450987654|VWXYZ2345L|9876543212|ananya.reddy@example.com|Age: 17|Suresh Reddy|9745134767
+CUST20456|Aryan|Agarwal|19-03-2009|4411 Rose Garden|Noida|Uttar Pradesh|201304|234561234567|ABCDE3456M|9823456781|aryan.agarwal@example.com|Age: 16|Ravi Agarwal|9876432102
+CUST20567|Varnika|Sharma|26-01-2013|4522 Bluebell Road|Chennai|Tamil Nadu|600006|345672345678|FGHIJ4567N|9765123456|varnika.sharma@example.com|Age: 12|Ravi Sharma|9876543200
+CUST20678|Madhav|Singh|10-06-2008|4633 Sapphire Towers|Indore|Madhya Pradesh|452004|456783456789|KLMNO5678O|9876543210|madhav.singh@example.com|Age: 17|Manoj Singh|9867543210
+CUST20789|Sonal|Verma|09-12-2011|4744 Palm Grove|Chandigarh|Chandigarh|160004|567894567890|VWXYZ6789P|9876432109|sonal.verma@example.com|Age: 13|Vikas Verma|9734123458
+CUST20890|Ishaan|Rani|21-04-2007|4855 Garden Estates|Kolkata|West Bengal|700005|678905678901|ABCDE7890Q|9765432108|ishaan.rani@example.com|Age: 18|||
+CUST20901|Vaidehi|Joshi|29-08-2011|4966 Meadow Heights|Mumbai|Maharashtra|400005|789016789012|FGHIJ2345R|9776254780|vaidehi.joshi@example.com|Age: 14|Pradeep Joshi|9834123459
+CUST21012|Nikhil|Sharma|14-10-2012|5077 Sunrise Tower|Bhopal|Madhya Pradesh|462005|890127890123|KLMNO0123S|9887543211|nikhil.sharma@example.com|Age: 13|Ashish Sharma|9765432105
+CUST21123|Rachit|Singh|22-12-2008|5188 Pinewood Avenue|Surat|Gujarat|395005|901238901234|QRSTU1234T|9745134760|rachit.singh@example.com|Age: 16|Pradeep Singh|9876234090
+CUST21234|Kavya|Bansal|16-05-2010|5299 Tulip Hill|Chandigarh|Chandigarh|160005|012349012345|VWXYZ2345U|9867543210|kavya.bansal@example.com|Age: 15|Mahesh Bansal|9734123457
+CUST21345|Aarav|Patel|01-08-2012|5400 Oceanview Lane|Chennai|Tamil Nadu|600007|123450987654|ABCDE3456V|9776254789|aarav.patel@example.com|Age: 13|Suresh Patel|9845123760
+CUST21456|Tanya|Singh|03-09-2007|5511 Crystal Towers|Ahmedabad|Gujarat|380018|234561234567|FGHIJ5678W|9867543211|tanya.singh@example.com|Age: 17|Ravi Singh|9812345679
+CUST21567|Raghav|Yadav|25-07-2011|5622 Crystal Lane|Jaipur|Rajasthan|302004|345672345678|KLMNO6789X|9765432108|raghav.yadav@example.com|Age: 14|Ramesh Yadav|9776543210
+CUST21678|Alok|Desai|11-01-2009|5733 Palm View|Mumbai|Maharashtra|400006|456783456789|QRSTU7890Y|9823456781|alok.desai@example.com|Age: 16|Vikram Desai|9734123456
+CUST21789|Mira|Patil|05-04-2012|5844 Ocean Breeze|Pune|Maharashtra|411005|567894567890|VWXYZ0123Z|9845123761|mira.patil@example.com|Age: 13|Nikhil Patil|9823456790
+CUST21890|Arjun|Sharma|13-07-2008|5955 Rainbow Road|Delhi|Delhi|110013|678905678901|ABCDE1234A|9812345678|arjun.sharma@example.com|Age: 17|Rajesh Sharma|9734123451
+CUST21901|Jiya|Kumar|27-11-2009|6066 Skyline Heights|Chandigarh|Chandigarh|160006|789016789012|FGHIJ2345B|9776254788|jiya.kumar@example.com|Age: 15|Mahesh Kumar|9734123455
+CUST22001|Ravi|Singh|15-04-1980|1478 Sunset Blvd|Mumbai|Maharashtra|400001|234567890123|ABCDE6789A|9812345670|ravi.singh@example.com|Age: 45|||
+CUST22002|Sunita|Sharma|22-07-1983|1589 Elm Street|Delhi|Delhi|110001|345678901234|FGHIJ1234B|9734123456|sunita.sharma@example.com|Age: 42|||
+CUST22003|Amit|Verma|30-12-1981|1690 Rose Avenue|Chennai|Tamil Nadu|600002|456789012345|KLMNO2345C|9876543212|amit.verma@example.com|Age: 44|||
+CUST22004|Nisha|Gupta|10-05-1985|1801 Pine Crescent|Bengaluru|Karnataka|560001|567890123456|QRSTU3456D|9876543210|nisha.gupta@example.com|Age: 40|||
+CUST22005|Anil|Patel|05-09-1982|1912 Lavender Road|Surat|Gujarat|395001|678901234567|VWXYZ4567E|9734567898|anil.patel@example.com|Age: 43|||
+CUST22006|Manish|Joshi|17-02-1980|2023 Oak Avenue|Hyderabad|Telangana|500001|789012345678|ABCDE5678F|9867543210|manish.joshi@example.com|Age: 45|||
+CUST22007|Priya|Desai|14-06-1986|2134 Cedar View|Jaipur|Rajasthan|302001|890123456789|FGHIJ6789G|9734123457|priya.desai@example.com|Age: 39|||
+CUST22008|Karan|Kumar|21-11-1980|2245 Maple Street|Noida|Uttar Pradesh|201301|901234567890|KLMNO7890H|9812345679|karan.kumar@example.com|Age: 45|||
+CUST22009|Neha|Reddy|04-10-1983|2356 Seaview Drive|Pune|Maharashtra|411001|012345678901|QRSTU8901I|9823456789|neha.reddy@example.com|Age: 42|||
+CUST22010|Sandeep|Agarwal|26-01-1980|2467 Ridgeway Road|Indore|Madhya Pradesh|452001|123456789012|VWXYZ2345J|9734567891|sandeep.agarwal@example.com|Age: 45|||
+CUST22011|Rashmi|Patel|19-08-1984|2578 Horizon Lane|Kolkata|West Bengal|700001|234567890123|ABCDE3456K|9776234567|rashmi.patel@example.com|Age: 41|||
+CUST22012|Vishal|Sharma|13-12-1982|2689 Sky Road|Ahmedabad|Gujarat|380015|345678901234|FGHIJ4567L|9845123765|vishal.sharma@example.com|Age: 43|||
+CUST22013|Tanu|Kaur|07-11-1985|2790 Crystal Park|Mumbai|Maharashtra|400003|456789012345|KLMNO5678M|9812345676|tanu.kaur@example.com|Age: 40|||
+CUST22014|Deepak|Singh|09-02-1980|2901 Oakwood Drive|Chandigarh|Chandigarh|160017|567890123456|QRSTU6789N|9876543210|deepak.singh@example.com|Age: 45|||
+CUST22015|Simran|Thakur|25-07-1983|3012 Pine Hill|Bhopal|Madhya Pradesh|462002|678901234567|VWXYZ7890O|9823456782|simran.thakur@example.com|Age: 42|||
+CUST22016|Brijesh|Joshi|16-03-1981|3123 Jasmine Avenue|Surat|Gujarat|395002|789012345678|ABCDE8901P|9867543211|brijesh.joshi@example.com|Age: 44|||
+CUST22017|Rina|Verma|03-09-1984|3234 Sunrise Avenue|Delhi|Delhi|110002|890123456789|FGHIJ9012Q|9734123458|rina.verma@example.com|Age: 41|||
+CUST22018|Kunal|Sharma|12-05-1980|3345 River Side|Chennai|Tamil Nadu|600004|901234567890|KLMNO0123R|9867543213|kunal.sharma@example.com|Age: 45|||
+CUST22019|Gaurav|Bansal|28-10-1985|3456 Hilltop Drive|Jaipur|Rajasthan|302003|012345678901|QRSTU1234S|9812345675|gaurav.bansal@example.com|Age: 40|||
+CUST22020|Pooja|Patel|18-06-1982|3567 Desert Road|Indore|Madhya Pradesh|452002|123456789012|VWXYZ2345T|9776254786|pooja.patel@example.com|Age: 43|||
+CUST22021|Tarun|Reddy|30-04-1981|3678 Parkside Road|Hyderabad|Telangana|500002|234567890123|ABCDE3456U|9823456780|tarun.reddy@example.com|Age: 44|||
+CUST22022|Preeti|Verma|11-01-1983|3789 Ocean Drive|Kolkata|West Bengal|700002|345678901234|FGHIJ4567V|9765432108|preeti.verma@example.com|Age: 42|||
+CUST22023|Ashok|Singh|09-07-1984|3890 Lakeside View|Bengaluru|Karnataka|560003|456789012345|KLMNO5678W|9845123762|ashok.singh@example.com|Age: 41|||
+CUST22024|Suman|Patil|02-03-1980|4001 Diamond Road|Mumbai|Maharashtra|400004|567890123456|QRSTU6789X|9734123453|suman.patil@example.com|Age: 45|||
+CUST22025|Chandan|Gupta|24-09-1986|4112 Maple Avenue|Delhi|Delhi|110003|678901234567|VWXYZ7890Y|9734567892|chandan.gupta@example.com|Age: 39|||
+CUST22026|Neelam|Agarwal|16-06-1982|4223 Amber Street|Chandigarh|Chandigarh|160008|789012345678|ABCDE8901Z|9867543214|neelam.agarwal@example.com|Age: 43|||
+CUST22027|Amit|Reddy|05-12-1980|4334 Blossom Road|Bhopal|Madhya Pradesh|462001|890123456789|FGHIJ0123A|9812345678|amit.reddy@example.com|Age: 45|||
+CUST22028|Shalini|Sharma|12-11-1983|4445 Lakeside Avenue|Ahmedabad|Gujarat|380016|901234567890|KLMNO1234B|9734123450|shalini.sharma@example.com|Age: 42|||
+CUST22029|Jaspreet|Kaur|26-08-1981|4556 Greenfield Road|Chandigarh|Chandigarh|160009|012345678901|QRSTU2345C|9845123763|jaspreet.kaur@example.com|Age: 44|||
+CUST22030|Vikas|Joshi|04-03-1980|4667 Redwood Road|Delhi|Delhi|110004|123456789012|VWXYZ3456D|9776234593|vikas.joshi@example.com|Age: 45|||
+CUST22031|Nishant|Bansal|14-06-1982|4778 Hillcrest Avenue|Mumbai|Maharashtra|400005|234567890123|ABCDE4567E|9867543201|nishant.bansal@example.com|Age: 43|||
+CUST22032|Ritika|Gupta|29-05-1984|4889 Valley View|Jaipur|Rajasthan|302004|345678901234|FGHIJ5678F|9812345679|ritika.gupta@example.com|Age: 41|||
+CUST22033|Harpreet|Kumar|13-04-1981|5000 Meadow Way|Kolkata|West Bengal|700003|456789012345|KLMNO6789G|9845123764|harpreet.kumar@example.com|Age: 44|||
+CUST22034|Sushil|Yadav|23-08-1980|5111 Springwood Avenue|Bengaluru|Karnataka|560004|567890123456|QRSTU7890H|9734567896|sushil.yadav@example.com|Age: 45|||
+CUST22035|Kajal|Patel|30-12-1985|5222 Oak Ridge|Indore|Madhya Pradesh|452005|678901234567|VWXYZ8901I|9823456783|kajal.patel@example.com|Age: 40|||
+CUST22036|Pankaj|Singh|06-02-1983|5333 Riverdale Avenue|Hyderabad|Telangana|500003|789012345678|ABCDE0123J|9776234569|pankaj.singh@example.com|Age: 42|||
+CUST22037|Komal|Bansal|15-07-1984|5444 Maplewood Drive|Chennai|Tamil Nadu|600008|890123456789|FGHIJ1234K|9867543207|komal.bansal@example.com|Age: 41|||
+CUST22038|Rajeev|Joshi|20-11-1981|5555 Evergreen Lane|Surat|Gujarat|395003|901234567890|KLMNO2345L|9812345674|rajeeve.joshi@example.com|Age: 44|||
+CUST22039|Seema|Singh|08-09-1982|5666 Sunset Drive|Pune|Maharashtra|411002|012345678901|QRSTU3456M|9867543212|seema.singh@example.com|Age: 43|||
+CUST22040|Gurpreet|Kaur|04-12-1986|5777 Pine Grove|Kolkata|West Bengal|700004|123456789012|VWXYZ4567N|9845123762|gurpreet.kaur@example.com|Age: 39|||
+CUST22041|Vijay|Gupta|01-10-1981|5888 Clover Lane|Jaipur|Rajasthan|302005|234567890123|ABCDE5678O|9734123451|vijay.gupta@example.com|Age: 44|||
+CUST22042|Lalita|Sharma|12-06-1985|5999 Golden Avenue|Delhi|Delhi|110005|345678901234|FGHIJ6789P|9812345671|lalita.sharma@example.com|Age: 40|||
+CUST22043|Ravi|Yadav|27-01-1980|6100 Heritage Lane|Chandigarh|Chandigarh|160010|456789012345|KLMNO7890Q|9823456781|ravi.yadav@example.com|Age: 45|||
+CUST22044|Arvind|Kumar|22-08-1982|6211 Riverway Avenue|Surat|Gujarat|395004|567890123456|QRSTU8901R|9867543205|arvind.kumar@example.com|Age: 43|||
+CUST22045|Nitika|Bansal|14-02-1981|6322 Hilltop Drive|Mumbai|Maharashtra|400007|678901234567|VWXYZ0123S|9776234578|nitika.bansal@example.com|Age: 44|||
+CUST22046|Neeraj|Singh|07-10-1984|6433 Breeze Lane|Pune|Maharashtra|411003|789012345678|ABCDE1234T|9734123457|neeraj.singh@example.com|Age: 41|||
+CUST22047|Akhil|Verma|17-03-1985|6544 Forest Grove|Pune|Maharashtra|411004|890123456789|FGHIJ2345U|9867543211|akhil.verma@example.com|Age: 40|||
+CUST22048|Bharat|Patel|25-12-1983|6655 Ridge Road|Jaipur|Rajasthan|302006|901234567890|KLMNO3456V|9776254781|bharat.patel@example.com|Age: 41|||
+CUST22049|Tushar|Sharma|09-06-1985|6766 City View Lane|Chennai|Tamil Nadu|600009|012345678901|QRSTU4567W|9834123458|tushar.sharma@example.com|Age: 40|||
+CUST22050|Suman|Reddy|17-11-1980|6877 Lakewood Drive|Hyderabad|Telangana|500004|123456789012|VWXYZ5678X|9812345672|suman.reddy@example.com|Age: 45|||
